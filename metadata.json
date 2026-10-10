@@ -1,0 +1,6 @@
+{
+  "name": "Mandarin Oriental Pudong, Shanghai",
+  "description": "A luxury hotel experience in the heart of Shanghai's Lujiazui financial district.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
